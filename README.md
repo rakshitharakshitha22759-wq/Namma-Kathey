@@ -48,9 +48,7 @@ Many people — especially children and students — struggle to find personaliz
 
 2. Open in Android Studio — Launch Android Studio, click `File > Open` and select the `NammaKathey` folder
 
-3. Add your API Key — Open `local.properties` file and add: `GEMINI_API_KEY=your_api_key_here`
-
-4. Run the App — Connect an Android device or emulator, then click the **Run** button or press `Shift + F10`
+3. Run the App — Connect an Android device or emulator, then click the **Run** button or press `Shift + F10`
 
 ---
 
