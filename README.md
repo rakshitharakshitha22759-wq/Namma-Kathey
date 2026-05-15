@@ -70,6 +70,8 @@ Namma-Kathey/
 │   └── settings.gradle.kts
 └── README.md
 ```
+DEMO LINK
+https://appetize.io/apps/android/com.nammakatheey.app
 
 
 ## 👩‍💻 Developed By
